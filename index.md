@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Trailsurfing through life
 
-You can use the [editor on GitHub](https://github.com/trailsurfing/trailsurfing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Du willst dich nicht abhetzen (wie auf [Strava](https://www.strava.com/) gefördert), denn Du möchtest einen Ausgleich zu deinem "anderen" hektischen Leben?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Du bist nicht 3x Deutscher Meister im Downhill und Dirtjump, möchtest aber trotzdem Spaß auf dem Bike haben?
 
-### Markdown
+Du hast schon genug Verpflichtungen in Job & Familie, dass Du "nicht noch mehr davon" brauchst?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Du suchst nach etwas anderem? Vielleicht nach Gelegenheit, Dich mal wieder selbst zu spüren, Glück und Grinsen in deinen Alltag zurückzubringen?
 
-```markdown
-Syntax highlighted code block
+Dann bist Du hier richtig!
 
-# Header 1
-## Header 2
-### Header 3
+### Was machen wir?
 
-- Bulleted
-- List
+Wir versuchen eine Community der "TrailsurferInnen und Trailsurfing Dads" aufzubauen, in der es mehr zählt, ob Du einfach Spaß auf dem Trail hast - anstatt nur wieder einer Möhre (sprich Bestzeit) hinterherzujagen. In der Du Belohung und Anerkennung erfährst, wenn Du es überhaupt mal wieder aufs Bike und raus in die Natur schaffst. Trotz all dem Stress. Und in der Du wunderschöne Touren teilen kannst - mit möglichst hohem Trail-Anteil! Denn wir wollen raus aus den "Beton-Wüsten" und rein in den Wald. Und das alles am besten auch noch an unsere Kids weitergeben... Wenn Du deine Kinder sogar noch mitnimmst, bekommst Du bei uns die echten Krönchen.
 
-1. Numbered
-2. List
+### Wer?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trailsurfing/trailsurfing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Aktuell wird die Seite vor allem von Jonas ([jonashackt.io](https://jonashackt.io/)) vorangetrieben, der aber ständig auf der Suche nach Mitstreitern ist. Außerdem soll die Community vollständig "OpenSource" sein (ein [Begriff aus der Softwareentwicklung, der für die freie Verfügbarkeit aller Informationen steht](https://de.wikipedia.org/wiki/Open_Source)). Daher organisieren wir uns auch über GitHub: https://github.com/trailsurfing/
