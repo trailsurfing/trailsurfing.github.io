@@ -1,5 +1,7 @@
 ## Trailsurfing through life
 
+![bike-morning]({{ site.url }}/assets/bike-morning.jpg)
+
 Du willst dich nicht abhetzen (wie auf [Strava](https://www.strava.com/) gefördert), denn Du möchtest einen Ausgleich zu deinem "anderen" hektischen Leben?
 
 Du bist nicht 3x Deutscher Meister im Downhill und Dirtjump, möchtest aber trotzdem Spaß auf dem Bike haben?
